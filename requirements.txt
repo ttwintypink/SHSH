@@ -1,0 +1,5 @@
+# requirements.txt (root)
+# Зависимости для хостинга/локального запуска.
+
+discord.py>=2.3.0
+python-dotenv>=1.0.0
